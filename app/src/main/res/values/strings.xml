@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LayoutTask</string>
+    <string name="nama_app">Unity | HRS</string>
+    <string name="copyright">https://github.com/fare4z</string>
 </resources>
